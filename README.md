@@ -10,6 +10,4 @@ Pozwala na szybkie prototypowanie, testowanie animacji, układów stron oraz eks
 ### Informacja o przechowywaniu danych  
 Wszystkie dane w tym repozytorium są przechowywane lokalnie. CodePen nie wymaga hostingu ani zewnętrznych baz danych – kod jest zapisywany w przeglądarce.
 
-ℹ️ Jeśli chcesz zapisać projekt na stałe, warto skopiować kod do repozytorium GitHub.  
-
 🔗 [Odwiedź CodePen](https://drewniak1015.github.io/CodePen/)  
